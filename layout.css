@@ -1,0 +1,28 @@
+body{
+    background-image: url("queensdesirem.jpg");
+    color:rgb(3, 3, 3);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+    
+    
+
+   
+#addBtn{
+    color: rgb(224, 84, 138);
+    background-color: rgba(8, 8, 8, 0.781);
+}
+#addTxt{
+    background-color: rgb(241, 126, 190);
+   color: black;
+   font-family: 'TIMES'
+}
+#index{
+    color: black;
+    background-color: rgba(202, 44, 241, 0.836);
+}
+#Owner{
+    color: rgb(0, 2, 3);
+    background-color: rgb(219, 108, 214);
+    text-align: right;
+}
